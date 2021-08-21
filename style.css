@@ -1,0 +1,11 @@
+
+/* product details part */
+.product-details .details{
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+/* promo code part*/
+.promo-code p{
+    font-weight: 500;
+}
